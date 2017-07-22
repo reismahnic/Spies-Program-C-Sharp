@@ -1,0 +1,6 @@
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 4 - String Formatting\Spies-Program-Tech-Academy-C-Sharp\Spies Assignment\Spies Assignment\bin\Spies Assignment.dll.config
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 4 - String Formatting\Spies-Program-Tech-Academy-C-Sharp\Spies Assignment\Spies Assignment\bin\Spies Assignment.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 4 - String Formatting\Spies-Program-Tech-Academy-C-Sharp\Spies Assignment\Spies Assignment\bin\Spies Assignment.pdb
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 4 - String Formatting\Spies-Program-Tech-Academy-C-Sharp\Spies Assignment\Spies Assignment\obj\Debug\Spies Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 4 - String Formatting\Spies-Program-Tech-Academy-C-Sharp\Spies Assignment\Spies Assignment\obj\Debug\Spies Assignment.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 4 - String Formatting\Spies-Program-Tech-Academy-C-Sharp\Spies Assignment\Spies Assignment\obj\Debug\Spies Assignment.pdb
